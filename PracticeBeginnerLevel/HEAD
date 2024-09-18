@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 d8ad19a24b8b91272408e4751d12fe245fdaca00 vagrant <vagrant@localusers.(none)> 1712802977 -0400	clone: from git@github.com:sadieedwin/bash-scripting-github.git
+d8ad19a24b8b91272408e4751d12fe245fdaca00 6a4f69ba4404bf37e3b77725844fa006d1437d79 vagrant <sadieedwin@gmail.com> 1712803429 -0400	commit: Renamed getopts.sh
+6a4f69ba4404bf37e3b77725844fa006d1437d79 178a84db2675fe5e41928ad271668e93de042f47 vagrant <sadieedwin@gmail.com> 1712815573 -0400	commit: update
+178a84db2675fe5e41928ad271668e93de042f47 550ae0def83bfa29f18fbc80cfa206cd68bed6da vagrant <sadieedwin@gmail.com> 1713412057 -0400	commit: new files
+550ae0def83bfa29f18fbc80cfa206cd68bed6da a6427b87e39ed2d426dd709efba2248fa6af853e vagrant <sadieedwin@gmail.com> 1713596530 -0400	commit: new file
+a6427b87e39ed2d426dd709efba2248fa6af853e 7657fa6aa4dda9018e8f979e380c595b0ca6b610 vagrant <sadieedwin@gmail.com> 1726404705 -0400	commit: added a test file
+7657fa6aa4dda9018e8f979e380c595b0ca6b610 da8fbd427f44266e3bd8c0e2bd98cbbff38ea51a vagrant <sadieedwin@gmail.com> 1726653376 -0400	pull origin main: Merge made by the 'recursive' strategy.
+da8fbd427f44266e3bd8c0e2bd98cbbff38ea51a e5a12fb048680dd97cb1758565db7260d9f46082 vagrant <sadieedwin@gmail.com> 1726657299 -0400	commit: added new scripts, practicing again. lol
