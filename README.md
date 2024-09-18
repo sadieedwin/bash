@@ -1,1 +1,1 @@
-My notes about BASH scripting
+These are my notes about BASH scripting journey! :)
